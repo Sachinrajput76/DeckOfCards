@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sachinrajput76/DeckOfCards/static/css/main.6134ba18.chunk.css",
+    "main.js": "/Sachinrajput76/DeckOfCards/static/js/main.650497ce.chunk.js",
+    "main.js.map": "/Sachinrajput76/DeckOfCards/static/js/main.650497ce.chunk.js.map",
+    "runtime-main.js": "/Sachinrajput76/DeckOfCards/static/js/runtime-main.4471201d.js",
+    "runtime-main.js.map": "/Sachinrajput76/DeckOfCards/static/js/runtime-main.4471201d.js.map",
+    "static/js/2.13ce70d6.chunk.js": "/Sachinrajput76/DeckOfCards/static/js/2.13ce70d6.chunk.js",
+    "static/js/2.13ce70d6.chunk.js.map": "/Sachinrajput76/DeckOfCards/static/js/2.13ce70d6.chunk.js.map",
+    "static/js/3.c1f75bb1.chunk.js": "/Sachinrajput76/DeckOfCards/static/js/3.c1f75bb1.chunk.js",
+    "static/js/3.c1f75bb1.chunk.js.map": "/Sachinrajput76/DeckOfCards/static/js/3.c1f75bb1.chunk.js.map",
+    "index.html": "/Sachinrajput76/DeckOfCards/index.html",
+    "static/css/main.6134ba18.chunk.css.map": "/Sachinrajput76/DeckOfCards/static/css/main.6134ba18.chunk.css.map",
+    "static/js/2.13ce70d6.chunk.js.LICENSE.txt": "/Sachinrajput76/DeckOfCards/static/js/2.13ce70d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4471201d.js",
+    "static/js/2.13ce70d6.chunk.js",
+    "static/css/main.6134ba18.chunk.css",
+    "static/js/main.650497ce.chunk.js"
+  ]
+}
