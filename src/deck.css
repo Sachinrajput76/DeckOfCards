@@ -1,0 +1,30 @@
+.Deck {
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+}
+.CardBox {
+  margin-top: 60px;
+}
+.Deck-title {
+  color: azure;
+  font-size: 27px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+.Subtitle {
+  font-size: 20px;
+}
+.Deck-btn {
+  background: none;
+  outline: none;
+  font: inherit;
+  margin: 0.5em;
+  padding: 1em 2em;
+  color: #009688;
+  border-color: #2d2d2d;
+  color: white;
+  transition: all 0.25s;
+}
+.Deck-btn:hover {
+  border-color: #3d635f;
+}

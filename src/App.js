@@ -1,16 +1,19 @@
-import React from 'react'
+import React, { Component } from 'react'
 import './App.css'
-import NavigationBar from './navigationBar'
 import CssBaseLine from '@material-ui/core/CssBaseline'
+import Card from './card'
+import Deck from './deck'
 
-function App() {
-  return (
-    <div className='App'>
-      <CssBaseLine />
-      <NavigationBar />
-      <h1>hello i am sachin</h1>
-    </div>
-  )
+class App extends Component {
+  render() {
+    return (
+      <div className='App'>
+        <CssBaseLine />
+        <h1>Card Dealer</h1>
+        <Deck />
+      </div>
+    )
+  }
 }
 
-export default App
+export default Deck
